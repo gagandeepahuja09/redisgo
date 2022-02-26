@@ -15,5 +15,13 @@
 
 * Map: Declaring using var vs declaring with make syntax. What's the difference?
 
+* Improvements and Optimizations required in code:
+* Move to using pipeline or txn.
+* Time window related part, threshold, etc should be moved to env config.
+* Strategy pattern to decide on whether to use Redis or some other strategy.
+* Separate package which decides which key to be used where.
+* Handling conversion b/w int and string in a better way.
+* Adding load tests. You can use k6 scripts.
+
 * NOTE:
 * Do revise and read design patterns, context, panic.
