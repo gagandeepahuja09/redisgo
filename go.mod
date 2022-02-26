@@ -1,4 +1,4 @@
-module github.com/gagandeepAhuja/redisgo
+module github.com/gagandeepahuja09/redisgo
 
 go 1.16
 

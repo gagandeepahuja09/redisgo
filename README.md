@@ -13,5 +13,7 @@
 
 * Read this for a deep dive: https://redis.uptrace.dev/
 
+* Map: Declaring using var vs declaring with make syntax. What's the difference?
+
 * NOTE:
 * Do revise and read design patterns, context, panic.
